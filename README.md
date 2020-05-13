@@ -1,8 +1,12 @@
-# FinCamp
-<div style="text-align:center;">
-  <h2>Welcome to FinCamp</h2>
-  <br>
+<h2 align="center">
+  Welcome to FinCamp
+</h2>
+
+<p align="center">
   <img src="gifs/intro.gif">
-  <br>
+</p>
+
+<p align="center">
   <img src="gifs/campgroundIndex.gif">
-</div>
+</p>
+
