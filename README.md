@@ -19,25 +19,21 @@
 <h4 align="center">
   Front-End
 </h4>
-<ul align="center" style="list-style: none;">
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>jQuerry</li>
-</ul>
+<p align="center">JavaScript</p>
+<p align="center">HTML</p>
+<p align="center">CSS</p>
+<p align="center">Bootstrap</p>
+<p align="center">jQuerry</p>
 <h4 align="center">
   Back-End
 </h4>
-<ul align="center">
-  <li>nodeJS</li>
-  <li>Express</li>
-  <li>PassportJS</li>
-  <li>mongoDB</li>
-</ul>
+<p align="center">nodeJS</p>
+<p align="center">Express</p>
+<p align="center">PassportJS</p>
+<p align="center">mongoDB</p>
 <p align="center">
   <img src="gifs/review.gif">
 </p>
 <h3 align="center">
-  What I have learned.
+  Things I learned from this Project.
 </h3>
