@@ -20,11 +20,11 @@
   Front-End
 </h4>
 <ul align="center">
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>jQuerry</li>
+  <li align="center">JavaScript</li>
+  <li align="center">HTML</li>
+  <li align="center">CSS</li>
+  <li align="center">Bootstrap</li>
+  <li align="center">jQuerry</li>
 </ul>
 <h4 align="center">
   Back-End
