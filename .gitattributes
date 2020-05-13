@@ -1,3 +1,4 @@
 *.html linguist-detectable=false
 *.htm inguist-detectable=false
 *.js linguist-detectable=true
+views/* linguist-vendored
