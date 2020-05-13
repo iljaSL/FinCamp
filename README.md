@@ -37,3 +37,9 @@
 <h3 align="center">
   Things I learned from this Project.
 </h3>
+<h5 align="center">RESTful Routes</h5>
+<h5 align="center">CRUD</h5>
+<p align="center">
+  <p align="center">Create, read, update and delete comments.
+  <img src="gifs/comment.gif">
+</p>
