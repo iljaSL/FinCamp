@@ -39,22 +39,21 @@
 </h2>
 <h3 align="center">RESTful Routes</h3>
 <h3 align="center">CRUD</h3>
+<p align="center">Create, read, update and delete comments, reviews and campgrounds.</p>
 <p align="center">
-  <p align="center">Create, read, update and delete comments, reviews and campgrounds.</p>
   <img src="gifs/comment.gif">
   <img src="gifs/crud.gif">
 </p>
 <br>
 <h3 align="center">User authentication</h3>
+<p align="center">Only registred user's can add, edit or delte campgrounds, comments and reviews.</p>
 <p align="center">
-  <p align="center">Only registred user's can add, edit or delte campgrounds, comments and reviews.</p>
   <img src="gifs/Login.gif">
 </p>
 <h3 align="center">Fuzzy search</h3>
 <p align="center">
   <img src="gifs/search.gif">
 </p>
-<h3 align="center">Fuzzy search</h3>
 <h3 align="center">Permission management</h3>
 <h3 align="center">Database management</h3>
 <h3 align="center">DOM manipulation</h3>
